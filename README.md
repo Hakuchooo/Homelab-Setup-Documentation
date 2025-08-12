@@ -9,10 +9,11 @@ It serves as both a personal log and a reference for others interested in buildi
 - [Current Setup](#current-setup)
 - [Software](#software)
 - [Network Diagram](#network-diagram)
-- [Configuration Notes](#notes)
+- [Notes](#notes)
 - [Upgrade Log](#upgrade-log)
 - [Future Plans](#future-plans)
 - [References](#references)
+
 
 ---
 
