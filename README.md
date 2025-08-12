@@ -4,13 +4,12 @@ This repository documents my homelab journey — from initial setup to upgrades,
 It serves as both a personal log and a reference for others interested in building their own homelab.
 
 ---
-
 ## 📜 Table of Contents
 - [Overview](#overview)
 - [Current Setup](#current-setup)
 - [Software](#software)
 - [Network Diagram](#network-diagram)
-- [Configuration Notes](#configuration-notes)
+- [Configuration Notes](#notes)
 - [Upgrade Log](#upgrade-log)
 - [Future Plans](#future-plans)
 - [References](#references)
