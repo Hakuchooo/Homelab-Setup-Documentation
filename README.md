@@ -4,25 +4,27 @@ This repository documents my homelab journey — from initial setup to upgrades,
 It serves as both a personal log and a reference for others interested in building their own homelab.
 
 ---
-## 📜 Table of Contents
-- [Overview](#overview)
-- [Current Setup](#current-setup)
-- [Software](#software)
-- [Network Diagram](#network-diagram)
-- [Notes](#notes)
-- [Upgrade Log](#upgrade-log)
-- [Future Plans](#future-plans)
-- [References](#references)
+## Table of Contents
 
+| # | Section |
+|---|---------|
+| 1 | Overview |
+| 2 | Current Setup |
+| 3 | Software |
+| 4 | Network Diagram |
+| 5 | Notes |
+| 6 | Upgrade Log |
+| 7 | Future Plans |
+| 8 | References |
 
 ---
 
-## 📌 Overview
+## Overview
 > My homelab is a small-scale home server environment used for self-hosting services, learning networking concepts, experimenting with Linux, and running development projects.
 
 ---
 
-## 🖧 Current Setup
+## Current Setup 
 | Device | Model / Specs | Purpose |
 |--------|--------------|---------|
 | Main Router | [PLDT/Converge ISP router] | Internet access from ISP |
@@ -32,7 +34,7 @@ It serves as both a personal log and a reference for others interested in buildi
 
 ---
 
-### 💽 Software
+## Software 
 
 | Device | OS / Software | Purpose |
 |--------|--------------|---------|
@@ -41,7 +43,7 @@ It serves as both a personal log and a reference for others interested in buildi
 
 ---
 
-## 🗺 Network Diagram
+## Network Diagram
 ```mermaid
 graph LR
     ISP -->|WAN| Main_Router
@@ -52,7 +54,7 @@ graph LR
 
 ---
 
-## 📝 Notes
+## Notes
 - **PC 1:** Runs **EndeavourOS** (Arch-based Linux).  
 - **PC 2:** Runs **OpenMediaVault** (Debian-based NAS OS).  
 - Current setup is simple — no dedicated firewall appliance or virtualization yet.  
@@ -62,7 +64,7 @@ graph LR
      
 ---
 
-## 📈 Upgrade Log
+## Upgrade Log
 
 | Date       | Upgrade / Change                           | Details                                                                 |
 |------------|--------------------------------------------|-------------------------------------------------------------------------|
@@ -74,14 +76,14 @@ graph LR
 
 
 ---
-## 🔮 Future Plans
+## Future Plans
 - Add storage to NAS for file storage.
 - Archer (network Isolation) (Place-holder for OPNsense).
 - OPNsense router 
 
 ---
 
-## 📚 References
+## References
 
 [![Building A DIY NAS On A Budget - TrueNAS Scale](https://img.youtube.com/vi/jf_5FaVFnrU/maxresdefault.jpg)](https://youtu.be/jf_5FaVFnrU)  
 *Video: **Building A DIY NAS On A Budget - TrueNAS Scale** by [Hardware Haven](https://www.youtube.com/@HardwareHaven)*
